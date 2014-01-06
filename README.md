@@ -1,7 +1,10 @@
 FK-doodle-jetplane
 ===============
 
-Republic day easter egg I had put on flipkart.com homepage. Not the best of the code, written over couple of nights.
+Republic day easter egg I had put on flipkart.com homepage. Not the best of the code, FPS could be improved, objects could be reused to avoid garbage collection.
+
+Demo: http://aakashbapna.github.io/jet-planes/index.html
+
 
 doodle.init("jet.png");
 
